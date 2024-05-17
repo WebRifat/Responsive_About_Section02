@@ -1,0 +1,85 @@
+@media (max-width:767px){
+   .container{
+    width: 90%;
+   }
+   #About{
+      
+      height: 500vh;
+     
+      
+  }
+   #About img{
+   width: 100%;
+   float: none;
+    
+    
+}
+#About .about_cnt{
+   
+}
+#About .about_cnt{
+   padding-left: 0;
+   
+   margin: 20px 0;
+   width: 681px; 
+  
+}
+#About .about_cnt .parent .child1{
+   float: none;
+   width: 100%;
+   height: 90px;
+   /* background-color: red; */
+   margin-bottom: 28px;
+}
+#About .about_cnt .parent .child2{
+   float: none;
+   width: 100%;
+   height: 90px;
+   /* background-color: red; */
+   margin-bottom: 28px;
+}
+#About .about_cnt .parent .child1 .img .image00{
+   width: 65%;
+   float: none;
+   
+}
+#About .about_cnt .parent .child2 .img .image00{
+   width: 65%;
+   float: none;
+   
+}
+#About .about_cnt .parent .child1 .img{
+   width: 20%;
+   
+}
+#About .about_cnt .parent .child1 .content{
+   width: 80%;
+}
+#About .about_cnt .parent .child2 .img{
+   width: 20%;
+   
+}
+#About .about_cnt .parent .child2 .content{
+   width: 80%;
+}
+#About .about_cnt .parent .child1 .content p {
+   
+   font-size: 15px;
+   
+}
+#About .about_cnt .parent .child2 .content p {
+   
+   font-size: 15px;
+   
+}
+#About .about_cnt .parent .child1 .content h5 {
+   
+   font-size: 20px;
+  
+}
+#About .about_cnt .parent .child2 .content h5 {
+   
+   font-size: 20px;
+  
+}
+}
